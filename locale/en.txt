@@ -1,0 +1,32 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_76B67980_3EEE_FA79_41CE_7FA7862F98A0.label = 1_fachada
+panorama_7B368311_3EEE_0E9B_4195_4D9EBD9ABB00.label = 2_entrada
+panorama_7B3C4B35_3EEE_1E9B_41B1_0860C089EE43.label = 3_vestíbulo y computadoras
+panorama_7B3D54DE_3EEE_0B89_41BF_08A2B87C05B2.label = 4_área infantil
+panorama_7B3D9E30_3EEE_3699_41CE_89299D60A4C0.label = 5_escaleras
+panorama_7B32A623_3EEE_16BF_41C8_6737A96D6705.label = 6_vestíbulo 2do piso
+panorama_7B3D2F02_3EEE_1679_41C8_599012998FCD.label = 7_mesas y circulación
+panorama_7B32B8E8_3EEE_7B89_41CC_8D9F94D96BE1.label = 8_jardín interior
+
+## Skin
+
+### Image
+Image_D442233B_F7A1_2598_41D7_5913BA142A9E.url = skin/Image_D442233B_F7A1_2598_41D7_5913BA142A9E_en.jpg
+
+### Label
+Label_22BB22F4_3075_D173_41BB_3ACDC6CCCC83.text = BibliotecaMunicipal
+Label_22BB32F4_3075_D173_4191_C8B45B85DEB8.text = Morovis
+
+### Multiline Text
+HTMLText_29DD1615_3597_79DF_41C4_7593739E5260.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Company Name</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>www.loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>info@loremipsum.com</I></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:'Arial, Helvetica, sans-serif';"><SPAN STYLE="color:#ffffff;font-size:14px;font-family:'Oswald Regular';"><I>Tlf.: +11 111 111 111</I></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Biblioteca Municipal Morovis
